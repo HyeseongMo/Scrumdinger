@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		060679B22AF3F1EB003C0094 /* SpeakerArc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060679B12AF3F1EB003C0094 /* SpeakerArc.swift */; };
 		0622903D2AE6C0CC0065BEA5 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0622903C2AE6C0CC0065BEA5 /* MeetingHeaderView.swift */; };
 		063A15CE2ADAACE8008F0904 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063A15CD2ADAACE8008F0904 /* DetailView.swift */; };
 		063A15D02ADBD8AC008F0904 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063A15CF2ADBD8AC008F0904 /* DetailEditView.swift */; };
@@ -56,6 +57,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		060679B12AF3F1EB003C0094 /* SpeakerArc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeakerArc.swift; sourceTree = "<group>"; };
 		0622903C2AE6C0CC0065BEA5 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 		063A15CD2ADAACE8008F0904 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		063A15CF2ADBD8AC008F0904 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 				0651E7A82AD8352300A93046 /* Preview Content */,
 				06FAA1CE2AF128050010B13E /* ErrorView.swift */,
 				06E168982AF2A35400B96386 /* MeetingTimerView.swift */,
+				060679B12AF3F1EB003C0094 /* SpeakerArc.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 				06679FDF2AED55CB007F9B37 /* NewScrumSheet.swift in Sources */,
 				069BC2362ADA61AB0055B986 /* ScrumsView.swift in Sources */,
 				0622903D2AE6C0CC0065BEA5 /* MeetingHeaderView.swift in Sources */,
+				060679B22AF3F1EB003C0094 /* SpeakerArc.swift in Sources */,
 				0651E7A52AD8352200A93046 /* Item.swift in Sources */,
 				067B90D82AE96E2E00C6342B /* ScrumProgressViewStyle.swift in Sources */,
 				06E168992AF2A35400B96386 /* MeetingTimerView.swift in Sources */,
